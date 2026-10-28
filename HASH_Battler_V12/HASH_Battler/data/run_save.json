@@ -1,0 +1,19 @@
+{
+  "map_unlocked": true,
+  "time_alive": 33.458999999705696,
+  "damage_dealt": 507.0,
+  "hits": 11,
+  "equipped_item": {
+    "name": "Lance",
+    "element": "Thunder",
+    "stats": {
+      "Damage": 7,
+      "Attack Speed": 0,
+      "Effect Power": 3,
+      "Knockback": 0,
+      "Reach": 0,
+      "Dash Speed": 0
+    }
+  },
+  "greeter_defeated": false
+}

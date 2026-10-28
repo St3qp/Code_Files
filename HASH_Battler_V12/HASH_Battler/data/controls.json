@@ -1,0 +1,18 @@
+{
+  "bindings": {
+    "Move Up": "w",
+    "Move Down": "s",
+    "Move Left": "a",
+    "Move Right": "d",
+    "Dash": "Shift_L",
+    "Shoot": "Mouse1",
+    "Chestplate": "Control_L",
+    "Item 1": "1",
+    "Item 2": "2",
+    "Item 3": "3",
+    "Item 4": "4"
+  },
+  "sound": true,
+  "debug": false,
+  "fullscreen": true
+}
